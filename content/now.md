@@ -18,3 +18,7 @@ I am currently working on my CompTIA A+ & Linux+. Then I intend to take a Indust
 ## Digital/Physical Organization
 
 Even though I have been a tech enthusiast my whole life, I have always had a partially functional, hobbled-together setup. So I am trying to rectify that by getting all my computer junk in order and getting rid of the excess. This is also true for the rest of my possesions, currenly I am trying to downsize as much as possible, within reason.
+
+## Why a Now Page?
+
+This idea came from [nownownow.com](https://nownownow.com/about) via the [personal blog](https://herman.bearblog.dev/) of the Bear Blog developer.
