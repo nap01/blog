@@ -7,8 +7,8 @@ title = "Dungeons & DNS"
 
 # Abandon all hope, all ye who enter here.
 
-![DNDNS Logo](/resources/assets/images/dndns-w.png#gh-dark-mode-only)
-![DNDNS Logo](/resources/assets/images/dndns-b.png#gh-light-mode-only)
+![DNDNS Logo](/assets/images/dndns-f.png)
+
 
 Welcome to Dungeons & DNS. This is a personal blog that will largely focus on my current project. Most of the time that is RPGs/Tabletop, Security/Defense, and Networks/Technology, but many other topics will spring up and fade away over time.
 
