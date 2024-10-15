@@ -7,7 +7,7 @@ title = "Dungeons & DNS"
 
 ## Abandon all hope, all ye who enter here.
 
-![DNDNS Logo](https://dndns.netlify.app/.netlify/images?url=/dndns-f.png)
+![DNDNS Logo](/.netlify/images?url=/static/images/dndns-f.png)
 
 Welcome to Dungeons & DNS. This is a personal blog that will largely focus on my current project. Most of the time that is RPGs/Tabletop, Security/Defense, and Networks/Technology, but many other topics will spring up and fade away over time.
 
